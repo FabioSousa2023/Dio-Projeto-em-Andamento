@@ -1,0 +1,3 @@
+Desenvolvendo um projeto com base nos estudos na Dio.
+Usando HTML e CSS.
+Voltando aqui sempre para otimizar.
